@@ -3,6 +3,7 @@ Rencana Konten WPU
 1) Javascript
   - ES6
   - Framework Javascript
-2) PHP Frameworks
-3) Interview
-4) Vlogs
+2) Fundamental Datastructure
+3) PHP Frameworks
+4) Interview
+5) Vlogs
