@@ -4,8 +4,11 @@ Rencana Konten WPU
   - ES6
   - Framework Javascript
     * Angular
+    * Vue
     * React
 2) PHP Frameworks
   - Laravel
-3) Interview
-4) Vlogs
+3) Fundamental Datastructure
+4) Interview
+5) Vlogs
+6) Phyton
