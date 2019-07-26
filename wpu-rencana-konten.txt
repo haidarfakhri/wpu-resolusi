@@ -4,6 +4,7 @@ Rencana Konten WPU
   - ES6
   - Framework Javascript
     * Vue
+    * React
 2) Fundamental Datastructure
 3) PHP Frameworks
   - Laravel
